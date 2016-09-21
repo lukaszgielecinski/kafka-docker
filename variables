@@ -1,0 +1,4 @@
+DOCKER_MACHINE_NAME=default
+TOPIC_NAME=three_replicas
+
+
